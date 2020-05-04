@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculadorareact-m1/static/css/main.40fc0dd4.chunk.css",
+    "main.js": "/calculadorareact-m1/static/js/main.a696c846.chunk.js",
+    "main.js.map": "/calculadorareact-m1/static/js/main.a696c846.chunk.js.map",
+    "runtime-main.js": "/calculadorareact-m1/static/js/runtime-main.b93ca231.js",
+    "runtime-main.js.map": "/calculadorareact-m1/static/js/runtime-main.b93ca231.js.map",
+    "static/js/2.a5eca882.chunk.js": "/calculadorareact-m1/static/js/2.a5eca882.chunk.js",
+    "static/js/2.a5eca882.chunk.js.map": "/calculadorareact-m1/static/js/2.a5eca882.chunk.js.map",
+    "index.html": "/calculadorareact-m1/index.html",
+    "precache-manifest.35445f9cc6789ec80c4d39c6d904208b.js": "/calculadorareact-m1/precache-manifest.35445f9cc6789ec80c4d39c6d904208b.js",
+    "service-worker.js": "/calculadorareact-m1/service-worker.js",
+    "static/css/main.40fc0dd4.chunk.css.map": "/calculadorareact-m1/static/css/main.40fc0dd4.chunk.css.map",
+    "static/js/2.a5eca882.chunk.js.LICENSE.txt": "/calculadorareact-m1/static/js/2.a5eca882.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/calculadorareact-m1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b93ca231.js",
+    "static/js/2.a5eca882.chunk.js",
+    "static/css/main.40fc0dd4.chunk.css",
+    "static/js/main.a696c846.chunk.js"
+  ]
+}
